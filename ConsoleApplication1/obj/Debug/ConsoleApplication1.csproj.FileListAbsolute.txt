@@ -1,0 +1,9 @@
+c:\users\tclark5\onedrive - knex\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\tclark5\onedrive - knex\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\tclark5\onedrive - knex\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\tclark5\onedrive - knex\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\tclark5\onedrive - knex\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\tclark5\onedrive - knex\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\tclark5\OneDrive - KNEX\Desktop\GrandCircus\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\tclark5\OneDrive - KNEX\Desktop\GrandCircus\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\tclark5\OneDrive - KNEX\Desktop\GrandCircus\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
